@@ -3,12 +3,12 @@
 Data Science fundamentals applied to real-world problems that Data Scientists help solve.
 
 
-# Introduction
+## Introduction
 
 Data Lit is is a 3 month course that offers lessons on Data Science fundamentals applied to real-world problems. Tools Used in projects are: Python, SQL, Tensorflow, Hadoop, MapReduce, Spark, GitHub.
 
 
-# Contents
+## Contents
 
 1. **Data Collection**
   Lecture1.1 Twitter Web Scraping for Sentiment Analysis
@@ -130,12 +130,12 @@ Data Lit is is a 3 month course that offers lessons on Data Science fundamentals
   Lecture11.8 Integration Tools
 
 12. **Data Storytelling**
-  Lecture12.1 Data Science Presentation guide
-  Lecture12.2 Designing an Automated Pipeline
-  Lecture12.3 Visual Science
-  Lecture12.4 Empathy-Driven Storytelling
-  Quiz12.1 Storytelling Quiz 0 question
-  Lecture12.5 Final (Data Science Group Project)
-  Lecture12.6 Reading Assignment (Well crafted presentations)
-  Lecture12.7 Using Analytics as a Tool
-  Lecture12.8 Types of Insights
+Lecture12.1 Data Science Presentation guide
+Lecture12.2 Designing an Automated Pipeline
+Lecture12.3 Visual Science
+Lecture12.4 Empathy-Driven Storytelling
+Quiz12.1 Storytelling Quiz 0 question
+Lecture12.5 Final (Data Science Group Project)
+Lecture12.6 Reading Assignment (Well crafted presentations)
+Lecture12.7 Using Analytics as a Tool
+Lecture12.8 Types of Insights
