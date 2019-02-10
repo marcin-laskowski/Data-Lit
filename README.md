@@ -19,7 +19,7 @@ Data Lit is is a 3 month course that offers lessons on Data Science fundamentals
   Lecture1.5 Reading Assignment (Web Scraping Techniques) \
   Lecture1.6 Homework Assignment (Twitter Sentiment Analysis) \
   Lecture1.7 Python Regular Expressions
-  
+
 2. **Statistics and Probability** \
   Lecture2.1 Credit Scoring \
   Lecture2.2 Sports Predictions \
